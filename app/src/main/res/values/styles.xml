@@ -6,4 +6,8 @@
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">#FF9800</item>
     </style>
+
+    <style name="IndiaGreenButton" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">#298806</item>
+    </style>
 </resources>
